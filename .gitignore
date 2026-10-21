@@ -1,0 +1,7 @@
+.venvs/
+runs/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.DS_Store
